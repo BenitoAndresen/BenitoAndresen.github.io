@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-MA in Economics Candidate at [Universidad de San Andrés](www.udesa.edu.ar)
+MA in Economics Candidate at [Universidad de San Andrés].(www.udesa.edu.ar)
 
 
 
